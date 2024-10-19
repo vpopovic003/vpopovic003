@@ -1,4 +1,4 @@
-<h1 align="center">Vladimir Popović 🚀 </h1>
+<h1 align="center">Vladimir Popović</h1>
 <h3 align="center"> Frontend Developer </h3>
 <br>
 
@@ -87,7 +87,7 @@
  <a href="https://vladimirpopovicdev.com" target="_blank">
 <img src=https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website style="margin-bottom: 5px;" />
 </a>
-  <a href="https://drive.google.com/file/d/1Um6XxWZFN_zzNBRf1-9Leu1EVgNCegaa/view?usp=sharing" target="_blank">
+  <a href="https://www.vladimirpopovicdev.com/resume" target="_blank">
 <img src=https://img.shields.io/badge/%20-📄RESUME-lightgrey.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website style="margin-bottom: 5px;" />
 </a>
 
