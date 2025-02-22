@@ -2,7 +2,7 @@
 <h3 align="center"> Frontend Developer </h3>
 <br>
 
-- Passionate Frontend Developer at Gitarologia.
+- Frontend Developer at Gitarologia.
 - Specialized in ReactJS.
 <!-- - Recognized for effective implementation and integration in team settings.
 - Adept at managing multiple projects in dynamic environments.
