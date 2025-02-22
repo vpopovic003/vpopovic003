@@ -3,8 +3,10 @@
 <br>
 
 - Frontend Developer at Gitarologia.
+
+<!--
 - Specialized in ReactJS.
-<!-- - Recognized for effective implementation and integration in team settings.
+- Recognized for effective implementation and integration in team settings.
 - Adept at managing multiple projects in dynamic environments.
 - Committed to continuous learning, particularly in Startup Tech. -->
 
